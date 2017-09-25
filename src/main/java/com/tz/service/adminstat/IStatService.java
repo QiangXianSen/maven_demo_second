@@ -18,7 +18,7 @@ import java.util.List;
  * echat
  * IStatMapper
  * 创建人:wq
- * 时间：2017年
+ * 时间：2017年9月20日 00:54:40
  * @version 1.0.0
  *
  */

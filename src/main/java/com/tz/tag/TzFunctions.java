@@ -19,8 +19,8 @@ import java.util.HashMap;
 /**
  * 
  * TzFunctions
- * 创建人:xuchengfei 
- * 时间：2015年9月10日-下午11:17:02 
+ * 创建人:wq
+ * 时间：2017年9月20日-下午11:05:21
  * @version 1.0.0
  * 
  */

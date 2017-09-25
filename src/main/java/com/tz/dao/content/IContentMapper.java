@@ -17,8 +17,8 @@ import java.util.List;
 /**
  * 
  * IContentMapper
- * 创建人:xuchengfei 
- * 时间：2015年11月28日-下午10:47:13 
+ * 创建人:wq
+ * 时间：2017年9月20日 00:54:40
  * @version 1.0.0
  * 
  */

@@ -127,3 +127,41 @@ var tzAdmin = {
 		}});
 	}
 };
+//自己封装的ajax
+var tzAjax = {
+	post: function (options,params) {
+		var opts = $.extend({},
+			{
+				path:"",
+				type:"post",
+				model:"",
+				method:"",
+				params:"",
+				before:function(){loading("数据加载中。。。")},
+				success:function(){},
+				error:function(){}
+			},
+			options);
+		if (!opts.url){
+			opts.url = opts.path+"/"+opts.model+(opts.params?"?"+opts.params:"");
+		}
+		$.ajax({
+			type:opts.type,
+			url:opts.url,
+			beforeSend:opts.before,
+			error:opts.error,
+			data:params,
+			success:function (data) {
+				loading("remove");
+				if (data == "logout"){
+					//第一种方案：登录弹出框
+					alert("登录弹出框在此弹出");
+					//第二种方案：直接跳转
+					window.location.href = opts.path+"/login";
+				}else{
+					if (opts.success)opts.success(data);
+				}
+            }
+		});
+    }
+};

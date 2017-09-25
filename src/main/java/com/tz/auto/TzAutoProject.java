@@ -25,8 +25,8 @@ import java.util.Scanner;
 /**
  * 
  * TzAutoProject
- * 创建人:xuchengfei 
- * 时间：2015年11月28日-下午11:40:30 
+ * 创建人:wq
+ * 时间：2017年9月20日-下午11:40:30
  * @version 1.0.0
  * 
  */

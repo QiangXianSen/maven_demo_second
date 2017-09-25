@@ -21,8 +21,8 @@ import static com.tz.util.TzConstant.SESSION_USER;
 /**
  * 
  * LoginIntercetor
- * 创建人:xuchengfei 
- * 时间：2015年11月13日-下午9:51:18 
+ * 创建人:wq
+ * 时间：2017年9月20日 00:54:40
  * @version 1.0.0
  * 
  */

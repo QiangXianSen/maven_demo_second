@@ -22,8 +22,8 @@ import java.util.List;
 /**
  * 信息管理serviceImpl
  * IMessageService
- * 创建人:黄辉业同学 
- * 时间：2015年12月01日 00:54:40
+ * 创建人:wq
+ * 时间：2017年9月20日-下午11:05:21
  * @version 1.0.0
  * 
  */

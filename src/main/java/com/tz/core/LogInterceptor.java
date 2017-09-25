@@ -27,8 +27,8 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * 
  * LogInterceptor
- * 创建人:xuchengfei 
- * 时间：2015年12月4日-下午11:01:50 
+ * 创建人:wq
+ * 时间：2017年9月20日 00:54:40
  * @version 1.0.0
  * 
  */

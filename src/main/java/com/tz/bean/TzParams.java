@@ -11,7 +11,7 @@ package com.tz.bean;
 
 /**
  * 
- * TzParams 创建人:xuchengfei 时间：2015年11月24日-上午12:42:33
+ * TzParams 创建人:wq 时间：2017年9月20日-上午12:42:33
  * 
  * @version 1.0.0
  * 

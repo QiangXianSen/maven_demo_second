@@ -21,6 +21,12 @@
 .wrap .nav li.items a{padding:8px 110px 8px 21px;display:inline-block;}
 /*silder bar liµÄÑùÊ½*/
 .wrap .nav li.items:hover,.wrap .nav li.active{background:#27A9E3}
+.wrap .nav li.items:hover{background:#27A9E3}
+
+.wrap .nav li ul li.active{background:#FF7F50}
+.wrap .nav li ul li:hover{background:#FF7F50}
+
+
 .wrap .nav li.items:hover a,.wrap .nav li.active a{color:#fff;}
 .wrap .nav li.items .numicon{float:right;position:absolute;top:8px;right:20px;}
 .wrap .nav li.active:after{

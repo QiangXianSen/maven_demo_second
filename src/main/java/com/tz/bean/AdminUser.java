@@ -15,7 +15,7 @@ import java.util.Date;
  * ClassName:User <br/>
  * Function: TODO ADD FUNCTION. <br/>
  * Reason: TODO ADD REASON. <br/>
- * Date: 2015年11月6日 下午9:04:29 <br/>
+ * Date: 2017年9月20日 下午9:04:29 <br/>
  * 
  * @author Administrator
  * @version

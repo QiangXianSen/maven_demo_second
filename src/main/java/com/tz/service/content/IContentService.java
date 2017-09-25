@@ -17,8 +17,8 @@ import java.util.List;
 /**
  * 
  * IContentService
- * 创建人:xuchengfei 
- * 时间：2015年11月28日-下午11:05:21 
+ * 创建人:wq
+ * 时间：2017年9月20日-下午11:05:21
  * @version 1.0.0
  * 
  */
@@ -29,9 +29,8 @@ public interface IContentService {
 	 * 
 	 * com.tz.dao.content 
 	 * 方法名：findContents
-	 * 创建人：xuchengfei 
-	 * 手机号码:15074816437
-	 * 时间：2015年11月28日-下午10:50:32 
+	 * 创建人:wq
+	 * 时间：2017年9月20日-下午11:05:21
 	 * @param params
 	 * @return 
 	 * 返回类型：List<Content>

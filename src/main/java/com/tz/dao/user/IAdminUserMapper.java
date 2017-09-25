@@ -17,8 +17,8 @@ import java.util.List;
 /**
  * 
  * IUserMapper
- * 创建人:xuchengfei 
- * 时间：2015年11月24日-上午12:40:28 
+ * 创建人:wq
+ * 时间：2017年9月20日 00:54:40
  * @version 1.0.0
  * 
  */
@@ -28,12 +28,10 @@ public interface IAdminUserMapper {
 	 * 根据账号和密码实现登陆
 	 * com.tz.dao.user 
 	 * 方法名：getLogin
-	 * 创建人：xuchengfei 
-	 * 手机号码:15074816437
-	 * 时间：2015年11月24日-上午12:41:22 
-	 * @param account
-	 * @param password
-	 * @return 
+	 * 创建人:wq
+	 * 时间：2017年9月20日 00:54:40
+	 * @param params
+	 * @return
 	 * 返回类型：User
 	 * @exception 
 	 * @since  1.0.0

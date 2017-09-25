@@ -13,7 +13,14 @@
 			 <li class="items"><a href="${adminPath}/music/list"><i class="fa fa-inbox"></i>音乐管理</a></li>
 			 
 			  <tz:if test="${tz:indexOf(pageContext.request.requestURI,'adminstat/list')!=-1}">
-				<tz:then><li class="items active"><a href="javascript:void(0);"><i class="fa fa-home"></i>日记统计</a></li></tz:then>
+				<tz:then>
+					<li class="items active"><a href="javascript:void(0);"><i class="fa fa-home"></i>日记统计</a></li>
+					<ul style="display: block">
+						<li class="citems"><a href="javascript:void(0);"><i class="bar-chart"></i>内容统计</a></li>
+						<li class="citems"><a href="javascript:void(0);"><i class="bar-chart"></i>内容统计</a></li>
+						<li class="citems"><a href="javascript:void(0);"><i class="bar-chart"></i>内容统计</a></li>
+					</ul>
+				</tz:then>
 				<tz:else><li class="items"><a href="${adminPath}/adminstat/list"><i class="fa fa-home"></i>日记统计</a></li></tz:else>
 			 </tz:if>
 			 

@@ -12,9 +12,8 @@ package com.tz.bean;
 import java.util.Date;
 
 /**
- * 日记管理 AdminStat 创建人:柯柯 时间：2015年12月05日 00:07:45 qq：761008250
- * email：761008250@qq.com
- * 
+ * 日记管理 AdminStat 创建人:wq 时间：2017年9月20日 00:07:45
+ *
  * @version 1.0.0
  * 
  */

@@ -13,7 +13,7 @@ import java.util.Date;
 
 /**
  * 
- * Content 创建人:xuchengfei 时间：2015年6月8日-下午1:13:00
+ * Content 创建人:wq 时间：2017年9月20日-下午1:13:00
  * 
  * @version 1.0.0
  * 

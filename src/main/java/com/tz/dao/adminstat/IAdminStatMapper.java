@@ -17,8 +17,8 @@ import java.util.List;
 /**
  * 日记管理Mapper
  * IAdminStatMapper
- * 创建人:柯柯 
- * 时间：2015年12月05日 00:07:45
+ * 创建人:wq
+ * 时间：2017年9月20日 00:54:40
  * @version 1.0.0
  * 
  */

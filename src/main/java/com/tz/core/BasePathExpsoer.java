@@ -18,8 +18,8 @@ import javax.servlet.ServletContext;
 /**
  * 
  * BasePathExpsoer
- * ������:xuchengfei 
- * ʱ�䣺2015��11��13��-����10:27:57 
+ * 创建人:wq
+ * 时间：2017年9月20日 00:54:40
  * @version 1.0.0
  * 
  */
